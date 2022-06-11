@@ -1,0 +1,29 @@
+{
+    "name": "MusicBot-Master",
+    "version": "1",
+    "description": "A simple music bot",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/builders": "^0.12.0",
+        "@discordjs/voice": "^0.8.0",
+        "@distube/soundcloud": "^1.1.0",
+        "@distube/spotify": "^1.2.1",
+        "@distube/yt-dlp": "^0.0.2",
+        "@distube/ytdl-core": "^4.11.3",
+        "colors": "^1.4.0",
+        "discord.js": "^13.6.0",
+        "distube": "^3.3.2",
+        "ffmpeg": "^0.0.4",
+        "ffmpeg-static": "^4.4.1",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.3",
+        "js-yaml": "^4.1.0",
+        "util": "^0.12.4"
+    }
+}

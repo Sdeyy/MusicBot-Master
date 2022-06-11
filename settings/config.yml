@@ -1,0 +1,19 @@
+##########################################
+#              Bot Config                #
+##########################################
+
+BotToken: "YOUR-BOT-TOKEN" # the token of your bot
+GuildID: "GUILD-ID" # the id of the guild for register the commands
+EmbedColor: "SET-A-COLOR" # the color for the embeds
+
+##########################################
+#              Music Config              #
+##########################################
+
+Music: # true or false
+  leaveOnStop: false
+  emitNewSongOnly: true
+  emitAddSongWhenCreatingQueue: false
+  emitAddListWhenCreatingQueue: false
+  emitEventsAfterFetching: true
+  youtubeDL: false
